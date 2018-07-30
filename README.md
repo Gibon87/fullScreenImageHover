@@ -3,7 +3,7 @@
 <p> Hey,<br>
 It's a simle hover effect,  </p>
 
-Demo: https://gibon87.github.io/glitchEffect/
+Demo: https://gibon87.github.io/fullScreenImageHover/
 
 <h2>How to use: </h2>
 <ol>
